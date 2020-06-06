@@ -1,6 +1,6 @@
 package dzien_pierwszy_zdadania.wyswietlanie.print;
 
-public class Zadanie1_1 {
+public class PrintTasks {
 
     public static void main(String[] args) {
         //1.1
