@@ -3,8 +3,8 @@ package dzien_drugi_przyklady.arrays;
 import com.sun.org.apache.xpath.internal.operations.String;
 
 public class ArraysExample {
-
     public static void main(String[] args) {
+
 
         int[] intArray = new int[3];
 
