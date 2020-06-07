@@ -6,7 +6,6 @@ public class StringTasks {
         String first = "pierwszy";
         String second = "drugi";
 
-
         System.out.println(first.toUpperCase() + second.toUpperCase());
 
         StringBuilder stringBuilder = new StringBuilder();
